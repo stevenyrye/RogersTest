@@ -1,0 +1,32 @@
+Calculate 12.0^38.0:
+Node trace -> 38.0
+Node trace -> 36.0
+Node trace -> 32.0
+Node trace -> 16.0
+Node trace -> 8.0
+Node trace -> 4.0
+Node trace -> 2.0
+Node trace -> 1.0
+Result => 1.0206746999785324E41
+
+Calculate 2.0^115.0:
+Node trace -> 115.0
+Node trace -> 99.0
+Node trace -> 66.0
+Node trace -> 33.0
+Node trace -> 32.0
+Node trace -> 16.0
+Node trace -> 8.0
+Node trace -> 4.0
+Node trace -> 2.0
+Node trace -> 1.0
+Result => 4.153837486827862E34
+
+Calculate 2.0^15.0:
+Node trace -> 15.0
+Node trace -> 10.0
+Node trace -> 5.0
+Node trace -> 4.0
+Node trace -> 2.0
+Node trace -> 1.0
+Result => 32768.0
